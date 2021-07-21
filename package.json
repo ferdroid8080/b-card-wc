@@ -1,0 +1,20 @@
+{
+  "name": "b-card-web-component",
+  "version": "1.0.1",
+  "description": "a very basic card for web component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdroid8080/b-card-wc.git"
+  },
+  "keywords": [],
+  "author": "Ferdroid8080 <hello@ferudinato.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ferdroid8080/b-card-wc/issues"
+  },
+  "homepage": "https://github.com/ferdroid8080/b-card-wc#readme"
+}
